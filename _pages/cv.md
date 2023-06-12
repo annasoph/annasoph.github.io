@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc.ETH in Mathematics, Eidgenössische Technische Hochschule Zürich, 2023
+* M.Sc.ETH in Applied Mathematikcs, Eidgenössische Technische Hochschule Zürich, 2024 (expected)
 
 Work experience
 ======
