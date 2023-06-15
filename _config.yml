@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "Anna Sophia Heck"
 description              : &description "Masters Student at ETHZ"
 url                      : https://annasoph.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "annasoph/annasoph.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -85,8 +85,8 @@ author:
   bio              : "Masters Student at ETHZ in Applied Mathematics"
   location         : "Switzlerland"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
